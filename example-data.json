@@ -1,0 +1,342 @@
+[
+  {
+    "Name": "Alumni Hall",
+    "Sex": "Male",
+    "Quad": "South Quad",
+    "Capacity": 225,
+    "Colors": "Green and White",
+    "Chapel": "St. Charles Borromeo",
+    "Mascot": "Dawgs",
+    "Notes": "Established 1931"
+  },
+  {
+    "Name": "Badin Hall",
+    "Sex": "Female",
+    "Quad": "South Quad",
+    "Capacity": 131,
+    "Colors": "Green and White",
+    "Chapel": "St. Stephen Columkille",
+    "Mascot": "Bullfrogs",
+    "Notes": "Historic dorm"
+  },
+  {
+    "Name": "Baumer Hall",
+    "Sex": "Male",
+    "Quad": "West Quad",
+    "Capacity": 251,
+    "Colors": "Burgundy and Gold",
+    "Chapel": "St. Martin de Porres",
+    "Mascot": "Buccaneers",
+    "Notes": "Newer hall"
+  },
+  {
+    "Name": "Breen-Phillips Hall",
+    "Sex": "Female",
+    "Quad": "North Quad",
+    "Capacity": "200 (approx)",
+    "Colors": "Blue and Pink",
+    "Chapel": "St. Francis of Assisi",
+    "Mascot": "Babes",
+    "Notes": "Traditions and events"
+  },
+  {
+    "Name": "Carroll Hall",
+    "Sex": "Male",
+    "Quad": "Far Quad",
+    "Capacity": 102,
+    "Colors": "Crimson and Gold",
+    "Chapel": "St. André Bessette",
+    "Mascot": "Vermin",
+    "Notes": ""
+  },
+  {
+    "Name": "Cavanaugh Hall",
+    "Sex": "Female",
+    "Quad": "North Quad",
+    "Capacity": 211,
+    "Colors": "Green and Purple",
+    "Chapel": "The Holy Spirit",
+    "Mascot": "Chaos",
+    "Notes": ""
+  },
+  {
+    "Name": "Coyle Community in Zahm Hall",
+    "Sex": "Male",
+    "Quad": "North Quad",
+    "Capacity": 176,
+    "Colors": "Green and White",
+    "Chapel": "St. Adalbert",
+    "Mascot": "The Crew",
+    "Notes": ""
+  },
+  {
+    "Name": "Dillon Hall",
+    "Sex": "Male",
+    "Quad": "South Quad",
+    "Capacity": 253,
+    "Colors": "Red and Black",
+    "Chapel": "St. Patrick",
+    "Mascot": "Big Red",
+    "Notes": ""
+  },
+  {
+    "Name": "Duncan Hall",
+    "Sex": "Male",
+    "Quad": "West Quad",
+    "Capacity": 232,
+    "Colors": "Green and Navy",
+    "Chapel": "St. Walter of Pontoise",
+    "Mascot": "Highlanders",
+    "Notes": ""
+  },
+  {
+    "Name": "Dunne Hall",
+    "Sex": "Male",
+    "Quad": "East Quad",
+    "Capacity": 221,
+    "Colors": "Green/Blue/Gray",
+    "Chapel": "Bl. Basil Moreau",
+    "Mascot": "Sentinels",
+    "Notes": ""
+  },
+  {
+    "Name": "Farley Hall",
+    "Sex": "Female",
+    "Quad": "North Quad",
+    "Capacity": 215,
+    "Colors": "Teal and Yellow",
+    "Chapel": "St. John the Evangelist",
+    "Mascot": "Finest",
+    "Notes": ""
+  },
+  {
+    "Name": "Flaherty Hall",
+    "Sex": "Female",
+    "Quad": "East Quad",
+    "Capacity": 226,
+    "Colors": "Lavender and Navy",
+    "Chapel": "Mary Queen of Angels",
+    "Mascot": "Bears",
+    "Notes": ""
+  },
+  {
+    "Name": "Graham Family Hall",
+    "Sex": "Male",
+    "Quad": "East Quad",
+    "Capacity": 262,
+    "Colors": "Purple and Gold",
+    "Chapel": "St. Augustine",
+    "Mascot": "Royals",
+    "Notes": "Newer community"
+  },
+  {
+    "Name": "Howard Hall",
+    "Sex": "Female",
+    "Quad": "South Quad",
+    "Capacity": 148,
+    "Colors": "Yellow and Green",
+    "Chapel": "Our Lady of Lourdes",
+    "Mascot": "Ducks",
+    "Notes": ""
+  },
+  {
+    "Name": "Johnson Family Hall",
+    "Sex": "Female",
+    "Quad": "East Quad",
+    "Capacity": 225,
+    "Colors": "Blue and White",
+    "Chapel": "St. Teresa of Calcutta",
+    "Mascot": "Valkyries",
+    "Notes": ""
+  },
+  {
+    "Name": "Keenan Hall",
+    "Sex": "Male",
+    "Quad": "North Quad",
+    "Capacity": 250,
+    "Colors": "Navy and White",
+    "Chapel": "Holy Cross",
+    "Mascot": "Knights",
+    "Notes": ""
+  },
+  {
+    "Name": "Keough Hall",
+    "Sex": "Male",
+    "Quad": "West Quad",
+    "Capacity": 271,
+    "Colors": "Blue and Red",
+    "Chapel": "Our Lady of Guadalupe",
+    "Mascot": "Kangaroos",
+    "Notes": ""
+  },
+  {
+    "Name": "Knott Hall",
+    "Sex": "Male",
+    "Quad": "Mod Quad",
+    "Capacity": 252,
+    "Colors": "Orange and Blue",
+    "Chapel": "St. Elizabeth Ann Seton",
+    "Mascot": "Juggerknotts",
+    "Notes": ""
+  },
+  {
+    "Name": "Lewis Hall",
+    "Sex": "Female",
+    "Quad": "God (Main) Quad",
+    "Capacity": 269,
+    "Colors": "Blue and Yellow",
+    "Chapel": "St. Theresa of Avila",
+    "Mascot": "Chicks",
+    "Notes": ""
+  },
+  {
+    "Name": "Lyons Hall",
+    "Sex": "Female",
+    "Quad": "South Quad",
+    "Capacity": 182,
+    "Colors": "Black and Gold",
+    "Chapel": "All Souls'",
+    "Mascot": "Lions",
+    "Notes": ""
+  },
+  {
+    "Name": "McGlinn Hall",
+    "Sex": "Female",
+    "Quad": "West Quad",
+    "Capacity": 272,
+    "Colors": "Green",
+    "Chapel": "St. Kateri Tekakwitha",
+    "Mascot": "Shamrocks",
+    "Notes": ""
+  },
+  {
+    "Name": "Morrissey Hall",
+    "Sex": "Male",
+    "Quad": "South Quad",
+    "Capacity": 235,
+    "Colors": "Black and Yellow",
+    "Chapel": "",
+    "Mascot": "The Manor",
+    "Notes": ""
+  },
+  {
+    "Name": "O’Neill Family Hall",
+    "Sex": "Male",
+    "Quad": "West Quad",
+    "Capacity": 279,
+    "Colors": "Blue and Silver",
+    "Chapel": "",
+    "Mascot": "Angry Mob",
+    "Notes": ""
+  },
+  {
+    "Name": "Pangborn Hall",
+    "Sex": "Female",
+    "Quad": "South Quad",
+    "Capacity": 173,
+    "Colors": "Purple and Green",
+    "Chapel": "",
+    "Mascot": "Phoxes",
+    "Notes": ""
+  },
+  {
+    "Name": "Pasquerilla East Hall",
+    "Sex": "Female",
+    "Quad": "Mod Quad",
+    "Capacity": 255,
+    "Colors": "Red and Black",
+    "Chapel": "",
+    "Mascot": "Pyros",
+    "Notes": ""
+  },
+  {
+    "Name": "Pasquerilla West Hall",
+    "Sex": "Female",
+    "Quad": "Mod Quad",
+    "Capacity": 256,
+    "Colors": "Purple and White",
+    "Chapel": "Saint Clare of Assisi",
+    "Mascot": "Purple Weasels",
+    "Notes": ""
+  },
+  {
+    "Name": "Ryan Hall",
+    "Sex": "Female",
+    "Quad": "West Quad",
+    "Capacity": 247,
+    "Colors": "Turquoise and White",
+    "Chapel": "",
+    "Mascot": "Wildcats",
+    "Notes": ""
+  },
+  {
+    "Name": "St. Edward’s Hall",
+    "Sex": "Male",
+    "Quad": "God Quad",
+    "Capacity": 161,
+    "Colors": "Green and Gold",
+    "Chapel": "",
+    "Mascot": "Gentlemen",
+    "Notes": ""
+  },
+  {
+    "Name": "Siegfried Hall",
+    "Sex": "Male",
+    "Quad": "Mod Quad",
+    "Capacity": 240,
+    "Colors": "Maroon and Gray",
+    "Chapel": "",
+    "Mascot": "Ramblers",
+    "Notes": ""
+  },
+  {
+    "Name": "Sorin Hall",
+    "Sex": "Male",
+    "Quad": "God Quad",
+    "Capacity": 144,
+    "Colors": "Blue and Gold",
+    "Chapel": "",
+    "Mascot": "Otters",
+    "Notes": ""
+  },
+  {
+    "Name": "Stanford Hall",
+    "Sex": "Male",
+    "Quad": "North Quad",
+    "Capacity": 254,
+    "Colors": "Green and Gold",
+    "Chapel": "",
+    "Mascot": "Griffins",
+    "Notes": ""
+  },
+  {
+    "Name": "Walsh Hall",
+    "Sex": "Female",
+    "Quad": "God Quad",
+    "Capacity": 182,
+    "Colors": "Navy and Light Blue",
+    "Chapel": "",
+    "Mascot": "Wild Women",
+    "Notes": ""
+  },
+  {
+    "Name": "Welsh Family Hall",
+    "Sex": "Female",
+    "Quad": "West Quad",
+    "Capacity": 281,
+    "Colors": "Blue and White",
+    "Chapel": "",
+    "Mascot": "Whirlwinds",
+    "Notes": ""
+  },
+  {
+    "Name": "Zahm Hall",
+    "Sex": "Swing (Temporary)",
+    "Quad": "North Quad",
+    "Capacity": "Varies",
+    "Colors": "Black and Red",
+    "Chapel": "Saint Albert the Great",
+    "Mascot": "Zahmbies",
+    "Notes": "Swing hall for renovations"
+  }
+]
